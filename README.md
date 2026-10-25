@@ -109,30 +109,6 @@ Der Hintergrund nutzt bewegte Illustrationen und eine an die Scrollposition geko
 ├── WEBSEITE_OEFFNEN.html # Eigenständige Offline-Demo
 ├── package.json
 └── README.md
-```
-
-Die Ordner `src/` und `docs/` haben unterschiedliche Aufgaben: **`src/`** enthält den wartbaren Anwendungsquellcode, **`docs/`** die bereits vorbereitete Website für GitHub Pages. Die Offline-Datei ist eine zusätzliche Möglichkeit, das Projekt ohne Installation anzusehen.
-
-## Lokal starten
-
-Voraussetzung: **Node.js 22** oder eine kompatible neuere Version und npm.
-
-```bash
-npm ci
-npm run dev
-```
-
-Anschließend die von Vite angezeigte lokale Adresse öffnen (normalerweise `http://localhost:5173/`).
-
-Weitere Befehle:
-
-```bash
-npm test             # Tests ausführen
-npm run lint         # Code prüfen
-npm run build        # Produktionsversion in dist/ erstellen
-npm run build:pages  # GitHub-Pages-Dateien in docs/ aktualisieren
-```
-
 
 **Live-Demo:** [https://dmytro-moldovanu.github.io/Geschenk-/](https://dmytro-moldovanu.github.io/Geschenk-/)
 
