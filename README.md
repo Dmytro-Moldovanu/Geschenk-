@@ -133,16 +133,6 @@ npm run build        # Produktionsversion in dist/ erstellen
 npm run build:pages  # GitHub-Pages-Dateien in docs/ aktualisieren
 ```
 
-**Ohne Installation:** `WEBSEITE_OEFFNEN.html` direkt im Browser öffnen. Diese Version enthält die erforderlichen Ressourcen für eine lokale Vorschau.
-
-## GitHub Pages
-
-Die veröffentlichte Version liegt im Verzeichnis `docs/`. Repository-Einstellungen:
-
-- **Settings → Pages → Source:** `Deploy from a branch`
-- **Branch:** `main`
-- **Folder:** `/docs`
-- **Save**
 
 **Live-Demo:** [https://dmytro-moldovanu.github.io/Geschenk-/](https://dmytro-moldovanu.github.io/Geschenk-/)
 
