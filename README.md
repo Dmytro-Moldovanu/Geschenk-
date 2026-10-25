@@ -146,8 +146,6 @@ Die veröffentlichte Version liegt im Verzeichnis `docs/`. Repository-Einstellun
 
 **Live-Demo:** [https://dmytro-moldovanu.github.io/Geschenk-/](https://dmytro-moldovanu.github.io/Geschenk-/)
 
-Nach Änderungen an `src/` müssen die generierten Dateien in `docs/` über `npm run build:pages` aktualisiert und ebenfalls in das Repository übernommen werden.
-
 ## Hinweise zum Projekt
 
 Dieses Projekt dient ausschließlich der **technischen Demonstration im persönlichen Entwicklerportfolio**. Es ist **kein Shop**: Es gibt weder eine Bestellfunktion noch eine Zahlungsabwicklung. Produktnamen und Marken dienen nur der Beschreibung passender Geschenkideen. Amazon ist kein technischer Partner des Projekts; die Links führen lediglich zu externen Suchergebnissen. Alle gezeigten Schätzpreise sind unverbindliche Katalogwerte.
