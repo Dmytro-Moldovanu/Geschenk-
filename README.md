@@ -109,6 +109,7 @@ Der Hintergrund nutzt bewegte Illustrationen und eine an die Scrollposition geko
 ├── WEBSEITE_OEFFNEN.html # Eigenständige Offline-Demo
 ├── package.json
 └── README.md
+```
 
 **Live-Demo:** [https://dmytro-moldovanu.github.io/Geschenk-/](https://dmytro-moldovanu.github.io/Geschenk-/)
 
