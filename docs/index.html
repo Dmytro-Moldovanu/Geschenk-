@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="de">
+  <head>
+    <!-- Beim Öffnen direkt von der Festplatte wird die eigenständige Version geladen. -->
+    <script>
+      if (window.location.protocol === 'file:') {
+        const fromDocs = /\/docs\/index\.html$/i.test(window.location.pathname)
+        window.location.replace(new URL(fromDocs ? '../WEBSEITE_OEFFNEN.html' : './WEBSEITE_OEFFNEN.html', window.location.href).href)
+      }
+    </script>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="Geschenkideen für Kinder passend zu Alter, Interessen, Budget und wichtigen Einschränkungen." />
+    <title>Geschenk? — intelligente Ideenauswahl</title>
+    <script type="module" crossorigin src="./assets/index-HD7AbmAf.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-Cfc3Qsqw.css">
+      <link rel="stylesheet" href="./validation-feedback.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script src="./animation-upgrade.js" defer></script>
+    <script src="./hero-upgrade.js" defer></script>
+      <script src="./validation-feedback.js" defer></script>
+  </body>
+</html>
